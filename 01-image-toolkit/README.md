@@ -164,7 +164,7 @@ As I continue learning Python, possible improvements include:
 
 ## Sample image
 
-The sample image included in `examples/input/` is "Nature Landscape"
+The sample image included in `examples/` is "Nature Landscape"
 by Semen Perez, obtained via Wikimedia Commons.
 
 The image is made available under the Creative Commons CC0 1.0
