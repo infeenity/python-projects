@@ -162,6 +162,17 @@ As I continue learning Python, possible improvements include:
 - Improved error handling
 - A graphical user interface
 
+## Sample image
+
+The sample image included in `examples/input/` is "Nature Landscape"
+by Semen Perez, obtained via Wikimedia Commons.
+
+The image is made available under the Creative Commons CC0 1.0
+Universal Public Domain Dedication.
+
+It is included only as a sample image for demonstrating and testing
+the image-processing functionality of this project.
+
 ## Author
 
 Deb Das
